@@ -1,0 +1,59 @@
+Cmp-Mod V01 Created by CvPcb (22-Jun-2014 BZR 4027)-stable date = Wed 15 Apr 2015 06:20:55 AM EDT
+
+BeginCmp
+TimeStamp = /552B9883;
+Reference = C1;
+ValeurCmp = CAP;
+IdModule  = SMT-0603;
+EndCmp
+
+BeginCmp
+TimeStamp = /552B9890;
+Reference = C2;
+ValeurCmp = CAP;
+IdModule  = SMT-0603;
+EndCmp
+
+BeginCmp
+TimeStamp = /552B98A2;
+Reference = C3;
+ValeurCmp = CAP;
+IdModule  = SMT-0603;
+EndCmp
+
+BeginCmp
+TimeStamp = /552B989C;
+Reference = C4;
+ValeurCmp = CAP;
+IdModule  = SMT-0603;
+EndCmp
+
+BeginCmp
+TimeStamp = /552B9896;
+Reference = C5;
+ValeurCmp = CAP;
+IdModule  = SMT-0603;
+EndCmp
+
+BeginCmp
+TimeStamp = /552B935E;
+Reference = J1;
+ValeurCmp = DB9-RS232;
+IdModule  = A-DF-09-AKG-T2S;
+EndCmp
+
+BeginCmp
+TimeStamp = /552B934F;
+Reference = J2;
+ValeurCmp = HEADER-6PIN;
+IdModule  = HEADER-100MIL-6;
+EndCmp
+
+BeginCmp
+TimeStamp = /552B936D;
+Reference = U1;
+ValeurCmp = SP3232EU;
+IdModule  = SOIC-N-16;
+EndCmp
+
+EndListe

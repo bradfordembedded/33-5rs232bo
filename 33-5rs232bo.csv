@@ -1,0 +1,5 @@
+"Id";"Designator";"Package";"Quantity";"Designation";"Supplier and ref";
+1;"U1";"SOIC-N-16";1;"SP3232EU";;;
+2;"C1,C2,C5,C4,C3";"SMT-0603";5;"0.1U";;;
+3;"J2";"HEADER-100MIL-6";1;"HEADER-6PIN";;;
+4;"J1";"A-DF-09-AKG-T2S";1;"DB9-RS232";;;
